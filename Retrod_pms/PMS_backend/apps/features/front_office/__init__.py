@@ -1,1 +1,0 @@
-# Front Office app initialization

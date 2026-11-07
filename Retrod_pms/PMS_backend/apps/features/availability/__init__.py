@@ -1,1 +1,0 @@
-# Boilerplate for availability app
